@@ -1,0 +1,3 @@
+rootProject.name = 'quote_that_4426'
+
+include ':app'
